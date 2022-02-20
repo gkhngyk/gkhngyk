@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
-<h3 align="center">Full Stack Web & Mobile Developer from Turkiye</h3>
+<h3 align="center">I ❤️ Full Stack Web & Mobile Development </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkhngyk" alt="gkhngyk" /></a> </p>
