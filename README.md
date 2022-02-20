@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Gokhan Geyik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhngyk)](https://github.com/gkhngyk/github-readme-stats)
+[![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhngyk)](https://github.com/gkhngyk/github-readme-stats)
+![Gokhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkhngyk&hide=contribs,prs)
