@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/gokhanai" target="blank"><img src="https://img.shields.io/twitter/follow/gkhngyk?logo=twitter&style=for-the-badge" alt="gokhanai" /></a> </p>
 
-- 🔭 I’m currently working on **business decision-making systems.**
+- 🔭 I’m currently working on **[Empler AI](https://empler.ai)**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **react, javascript**
 
