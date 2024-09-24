@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gokhan</h1>
-<h3>I ❤️ Full Stack Web & Mobile Development </h3>
+<h3>I ❤️ LLMs </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkhngyk" alt="gkhngyk" /></a> </p>
